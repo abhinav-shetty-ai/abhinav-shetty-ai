@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Abhinav Shetty 👋
 
-<!--
-**abhinav-shetty-ai/abhinav-shetty-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student | Computer Science
 
-Here are some ideas to get you started:
+🚀 Aspiring AI entrepreneur and developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Python, Computer Science fundamentals
+
+💡 Goal: Build an AI-powered startup
+
+📍 India
+
+---
+
+## 🛠️ Skills (Learning)
+- Python (beginner)
+- Git & GitHub
+
+## 📌 Goals for 2026
+- [ ] Complete CS50 course
+- [ ] Build 3 small Python projects
+- [ ] Learn AI/ML basics
+
+---
+
+⚡ *"Every expert was once a beginner"*
